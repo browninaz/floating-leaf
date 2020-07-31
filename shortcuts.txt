@@ -1,0 +1,15 @@
+Shift + Alt + F = Format document (Clean up code)
+Ctrl + O = Opens File Explorer
+Ctrl + P = Search for file in open folder. Right arrow opens in the next tab. Ctrl + Enter splits window.
+Ctrl + R = Switch workspaces
+Ctrl + G = Go to specific line
+Ctrl + Shift + P = Command Palette (Search for Open Keyboard shortcuts to open window)
+Alt + Z = Word wrap in editor
+Ctrl + L = Select line
+Ctrl + Shift + K = Delete line
+Alt + Up or Down arrow = Move line up or down
+Shift + Alt + Down arrow = Copy line down
+Alt + L + Alt + O = Open Live Server
+Crtl + K + C = Comment Code
+Ctrl + H = Find and Replace
+Ctrl + Shift + P = Command Palette 
